@@ -1,12 +1,3 @@
-_G.Color = Color3.fromRGB(255, 128, 0) -- Color Gui
-_G.imageLogo = "rbxassetid://11433349488" -- Logo Gui
-_G.Title = "By ItzHwng#3319" -- Title
-_G.NameHub = "NUCLEAR HUB" -- Name Hub
------------------------------------------------------------------
-
-
-local library = {}
-
 local UIConfig = {Bind = Enum.KeyCode.RightControl}
 local chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 local length = 20
